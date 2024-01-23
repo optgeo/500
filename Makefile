@@ -5,4 +5,6 @@ pmtiles:
 	500.pmtiles --minimum-zoom=10 --maximum-zoom=14
 add: 
 	ipfs add --progress 500.pmtiles
+pin:
+	ipfs pin add --progress QmbAq2vBTYwiBde2pidMg8ud2EyKhenVYm6Uumq5n3UUMy
 

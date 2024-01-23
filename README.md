@@ -6,14 +6,14 @@
 QmbAq2vBTYwiBde2pidMg8ud2EyKhenVYm6Uumq5n3UUMy
 
 ## On UN Smart Maps Bazaar
-https://smb.optgeo.org/ipfs/QmbAq2vBTYwiBde2pidMg8ud2EyKhenVYm6Uumq5n3UUMy
+https://smb.optgeo.org/ipfs/QmbAq2vBTYwiBde2pidMg8ud2EyKhenVYm6Uumq5n3UUMy (207MB)
 
 # Demo
 ## PMTiles Viewer
 https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fsmb.optgeo.org%2Fipfs%2FQmbAq2vBTYwiBde2pidMg8ud2EyKhenVYm6Uumq5n3UUMy#map=10.12/37.3746/137.1729
 
 ## Observable
-FIXME
+https://observablehq.com/d/62cb93d9716b6d2f
 
 # 仕様
 ## 採用した属性
