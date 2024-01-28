@@ -58,9 +58,9 @@ https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Fsmb.optgeo.org%2Fipfs%2FQ
 ### Observable
 https://observablehq.com/d/62cb93d9716b6d2f
 
-## 仕様
-### 採用した属性
-MESH_ID, SHICODE,　PTN_2015, PTN_2020, PTN_2025, PTN_2030, PTN_2035, PTN_2040, PTN_2045, PTN_2050
+# 仕様
+## 採用した属性
+MESH_ID, SHICODE, PTN_2015, PTN_2020, PTN_2025, PTN_2030, PTN_2035, PTN_2040, PTN_2045, PTN_2050
 
 ### ズームレベル
 minzoom=10, maxzoom=14
